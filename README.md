@@ -9,7 +9,8 @@ A fully serverless visitor counter web application built on AWS using S3, CloudF
 
 ## Architecture
 
-![Architecture](screenshots/architecture.png)
+![Architecture]<img width="1096" height="797" alt="image" src="https://github.com/user-attachments/assets/e2add15c-7d6b-412d-ade9-3030435b3323" />
+
 
 ---
 
