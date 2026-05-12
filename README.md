@@ -40,7 +40,8 @@ A fully serverless visitor counter web application built on AWS using S3, CloudF
 
 ## Frontend Preview
 
-![Frontend](screenshots/frontend.png)
+![Frontend]<img width="1920" height="950" alt="image" src="https://github.com/user-attachments/assets/47689910-8c1e-460d-b2fa-80caed03962e" />
+
 
 ---
 
@@ -79,14 +80,11 @@ This project strengthened my understanding of:
 
 ## Live Demo
 
-Add your CloudFront URL here.
 
-Example:
-
-https://your-cloudfront-url.cloudfront.net
+https://dpmrnuzkih799.cloudfront.net/
 
 ---
 
 ## Author
 
-Akash
+Akash Krishna Kumar
