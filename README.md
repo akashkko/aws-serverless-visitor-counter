@@ -54,6 +54,11 @@ A fully serverless visitor counter web application built on AWS using S3, CloudF
 5. Lambda retrieves and updates visitor count in DynamoDB
 6. Updated count is returned to frontend
 
+<img width="1920" height="949" alt="image" src="https://github.com/user-attachments/assets/3db5d21c-6794-498d-99fa-0973f9bf11d6" />
+<img width="1918" height="914" alt="image" src="https://github.com/user-attachments/assets/0b8c4083-4f15-458a-bed6-714b0f47f74c" />
+
+
+
 ---
 
 ## Challenges Faced
